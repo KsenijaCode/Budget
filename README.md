@@ -1,4 +1,4 @@
-# Eduhouse
+# Budget
 
 _website design project_
 
